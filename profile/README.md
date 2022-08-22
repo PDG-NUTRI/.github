@@ -1,4 +1,4 @@
-# Nutrition App
+# OtCare
 
 Dans le cadre du projet de groupe, nous développons une application mobile pour nutritionnistes.
 
