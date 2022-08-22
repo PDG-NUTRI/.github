@@ -1,6 +1,6 @@
 # Nutrition App
 
-Dans le cadre du projet de groupe, nous développons une application mobile pour nutritionistes.
+Dans le cadre du projet de groupe, nous développons une application mobile pour nutritionnistes.
 
 ## Équipe lesCrêpes 🙋‍♀️
 
