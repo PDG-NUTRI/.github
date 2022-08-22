@@ -19,5 +19,5 @@ Nous gardons tous les documents administratifs sur l'organisation.
 
 ## Fun facts
 
-Nous avons commencé l'aventure avec une Babka et continuerons l'aventure sur des croissants.
+Nous avons commencé l'aventure avec une Babka et continuerons notre lancée avec des croissants. Nous finirons sûrement avec une soirée crêpe!
 
