@@ -27,7 +27,9 @@ Il a pour but de faire comprendre comment sera utilisé le produit final une foi
 ## Méthodologie de développement
 
 ## Choix technologiques
+Pour le développement de l'application mobile, nous utilisons Flutter qui nous permet d'avoir une solution multiplateforme et d'obtenir rapidement une interface graphique sans difficulté.
 
+Du côté backend, nous utilisons les services de Firebase. Nos données sont stockées sur Firebase Realtime Database et les fichiers sur Firebase Storage. Notre système d'authentification est également géré à l'aide de Firebase Auth.
 ## Outils de développement
 
 ## Intégration / Déploiement continu
