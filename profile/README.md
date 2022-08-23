@@ -1,10 +1,10 @@
-# **OtCare 🥕**
+# **Careot 🥕**
 
-Dans le cadre du projet de groupe, nous développons une application mobile pour nutritionnistes: **Otcare🥕**.
+Dans le cadre du projet de groupe, nous développons une application mobile pour nutritionnistes: **Careot🥕**.
 
 ## Contexte :seedling:
 
-**OtCare** encadre le suivi d'un patient par un nutritionniste afin d'atteindre ses objectifs alimentaires.
+**Careot** encadre le suivi d'un patient par un nutritionniste afin d'atteindre ses objectifs alimentaires.
 
 Le patient renseigne quotidiennement ses repas dans l'application pendant que le nutritioniste peut surveiller les progrès de son patient et lui donner des conseils tout au long de son périple alimentaire. De plus, le patient peut échanger des fichiers avec son soignant grâce à l'espace prévu à cet effet. Ainsi, il est devenu facile de se fixer des objectifs et de rester motiver pour atteindre ses objectifs alimentaires.
 
