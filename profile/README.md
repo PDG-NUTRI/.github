@@ -50,7 +50,7 @@ Nous sommes une équipe motivées de 4 étudiants en dernière année de Bachelo
 
 Ce projet s'inscrit dans le cadre de la HES d'été à la HEIG-VD d'Yverdon en 2022, durant laquelle nous devons développer une application pendant une durée de 3 semaines.
 
-Nous sommes en orientation logiciel sauf Olivier qui a préféré shoisir la voie des données. Mais nous avons tous une chose en commun, nous aimons les crêpes.
+Nous sommes en orientation logiciel sauf Olivier qui a préféré se consacrer à l'étude des données. Mais nous avons tous une chose en commun, nous aimons les crêpes.
 
 La nourriture occupe une place importante dans notre processus de développement. L'idée de cette application a vu le jour à une crêpe party
 L'aventure a ensuite commencé autour d'une Babka. Il sera nécessaire de terminer avec une soirée crêpe!
