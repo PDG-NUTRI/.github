@@ -25,7 +25,28 @@ Il a pour but de faire comprendre comment sera utilisé le produit final une foi
 ## Requirements non-fonctionnels
 
 ## Méthodologie de développement
+### Processus logiciel
+Le temps de développement mis à disposisiton pour ce projet étant relativement court, nous avons décidé de ne pas utiliser un processus agile itératif. De plus, ayant communiqué au préalable avec notre mandant (une amie nutritioniste d'Olivier) nos requirements sont bien définis.
 
+Nous allons cependant quand même séparer les tâches en issues dans un Kanban dont le fonctionnement sera expliqué plus en détail dans un chapitre dédié.
+
+#### Cycle de développement
+Étant donnée que nous utilisons par de processus agile, le cycle de développement est plus court et dure en général 1 à 2 jours.
+
+1. Plannification
+2. Développement
+3. Test
+4. Code review
+
+Lors du développement, le développeur travail sur une issue à la fois en créant une branche pour celle-ci. Il commit ses modifications régulièrement sur cette dernière et ouvre une pull request une fois que la fonctionnalité est terminée et passe les tests. Le code produit est alors évalué par un autre membre qui peut éxiger des modification ou merge les modifications sur la branche main.
+
+#### Kanban
+Les tâches sont donc séparées en issues dont l'états peuvent être les suivants :
+* **To do** : stories dont l'implémentation n’est pas en cours. Elles peuvent cependant déjà être attribuées.
+* **In progress** : stories en cours d’implémentation.
+* **To review** : une fois l’implémentation de la story terminée, le développeur ouvre une pull request et place la story dans cette même colonne. Un autre développeur s’occupe alors de vérifier la bonne implémentation de la story et peut laisser des commentaires. Il avertit le reste de l’équipe en se l’assignant en tant que reviewer. S’il n’est pas satisfait de l’implémentation de la story, il la déplace dans la colonne “Review done” avec un commentaire avertissant le développeur des modifications à effectuer. Autrement, il ferme la pull request et déplace l'issue dans done.
+* **Review done** : issue dont la solution n'es pas assez satisfaisante pour être introduite sur la branche main.
+* **Done** : stories terminée.
 ## Choix technologiques
 Pour le développement de l'application mobile, nous utilisons Flutter qui nous permet d'avoir une solution multiplateforme et d'obtenir rapidement une interface graphique sans difficulté.
 
