@@ -7,20 +7,47 @@ Careot est une application de suivi personnel diététique mettant en relation u
 
 Le patient renseigne quotidiennement ses repas dans l'application pendant que le diététicien peut surveiller les progrès de son patient et lui donner des conseils tout au long de son périple alimentaire. De plus, le patient peut échanger des fichiers avec son soignant grâce à l'espace prévu à cet effet. Ainsi, il est devenu facile de se fixer des objectifs et de rester motiver pour atteindre ses objectifs alimentaires.
 
+## Importance d’une prise en charge qualifiée
 
-## Landing page
+Depuis les années 1992 on observe une augmentation du surpoids et de l’obésité. Ils sont un défi de grande ampleur pour le système de santé Suisse. Selon l’OFSP, 42% de la population Suisse est en surpoids ou en état d’obésité. Près de 11% des personnes souffrent d’obésité. Avec l’augmentation de l’obésité, on peut également observer sa stigmatisation. Bien connue des scientifiques, ses conséquences sont dramatiques. Outre les conséquences psychologiques, elle peut aggraver l’obésité et de ce fait ses complications. La population considère encore à tort l’obésité comme un simple “laisser aller” et un manque de discipline. Ce genre de pensée mène à la création d’applications destinées à la perte de poids sans encadrement médical spécialisé et personnalisé. Elles pensent résoudre la perte de poids par le comptage des calories et la surveillance du poids. Hors les recommandations de bonnes pratiques vont dans un autre sens. La prise en charge doit être personnalisée et réalisée par une diététicienne, tout en favorisant l’éducation thérapeutique, d’auto-observation et l’autonomie. Les conséquences d’une mauvaise prise en charge sont multiples. Entre autres, compter les calories peut aggraver ou déclencher des troubles du comportement alimentaires. 
 
-Une landing page est un site Web vitrine. Il s’agit souvent d’une page pour présenter un produit, les fonctionnalités de celui-ci et l’équipe qui l’a réalisé. Sa seule utilité est de présenter le concept au grand public avant le lancement officiel. La landing page est souvent accrocheuse et accessible; on comprend vite le but du produit présenté.
+## [Landing page](https://github.com/PDG-NUTRI)
 
-[Page d'accueil](https://github.com/PDG-NUTRI)
-
-## Mockup
-
-Il a pour but de faire comprendre comment sera utilisé le produit final une fois qu’il sera développé. Il s’agit d’un prototype simplifié pour illustrer les interactions entre l’utilisateur et le produit final. Il permet de valider l’idée finale de l’application ou du site Web avant de commencer à la développer
-
-[Mockup](https://www.figma.com/file/0gbE9gDHY1h7Hnc1fviPDz/PDG-Nutri?node-id=0%3A1)
+## [Mockup](https://www.figma.com/file/0gbE9gDHY1h7Hnc1fviPDz/PDG-Nutri?node-id=0%3A1)
 
 ## Schéma d’architecture
+
+## Périmètre & Objectifs
+
+### Application Patient
+
+#### Discussion patient - soignant
+
+Cette interface permet de au patient de poser des questions à la diététicienne et elle
+pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire
+
+#### Espace Document
+
+#### Calendrier avec journal des repas
+
+#### Création du journal alimentaire
+
+Le patient renseignera durant 4-5 jours ses repas dans l'application pendant que la diététicienne
+pourra observer le remplissage du carnet.
+
+### Application Diététicien
+
+#### Changer données patient
+
+#### Liste des patients
+
+#### Rapport de consultation
+
+Durant la première consultation, la diététicienne remplira les données récoltées durant la séance
+(travail, histoire du poids..). Cette interface sera uniquement visible par la soignante. Elle sauvegardera la
+session. Et au cours des consultations suivantes, elle continuera de remplir le dossier. Elle pourra
+également ajouter des documents à ce dossier, des contacts (ex: médecin, ect..). toutes les
+conversations avec le patient se retrouveront également dans ce dossier.
 
 ## Requirements fonctionnels
 
