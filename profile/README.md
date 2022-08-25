@@ -3,7 +3,7 @@
 ![AppShowcase](https://user-images.githubusercontent.com/43602144/186604452-ca0b63d2-6022-4fe9-a1b1-816c138368c4.jpg)
 > **Take care of your clients efficiently.**
 
-**Careot** est l'application offrant aux nutritionnistes un suivi fiable et efficace de leur clients.
+**Careot** est l'application offrant aux diététiciens un suivi fiable et efficace de leur clients.
 
 Nous soutenons l'importance d'un encadrement médical spécialisé et personnalisé.
 
@@ -28,13 +28,13 @@ Le patient remplit quotidiennement son journal alimentaire et y est ainsi sensib
 ### Rapport sain du client avec son alimentation
 Le formulaire du journal de suivi se concentre sur les sensations alimentaire du patient. Le patient peut ainsi développer un meilleur rapport à son alimentation et se concentrer sur les ressentis de son coeur.
 
-Careot encadre le suivi d'un patient par un nutritionniste afin d'atteindre ses objectifs alimentaires. Le patient renseigne quotidiennement ses repas via un formulaire intégré à l'application. Le processus est simple et interactif : le client prend une photo de son repas et complète quelques champs tels que la durée, sa sensation de faim avant de manger ou encore son sentiment de satiété.
+Careot encadre le suivi d'un patient par un diététicien afin d'atteindre ses objectifs alimentaires. Le patient renseigne quotidiennement ses repas via un formulaire intégré à l'application. Le processus est simple et interactif : le client prend une photo de son repas et complète quelques champs tels que la durée, sa sensation de faim avant de manger ou encore son sentiment de satiété.
 
 > Avec Careot, les sensations alimentaires sont placées au coeur du processus..
 
 ### Une messagerie intégrée
 
-Careot offre un service de messagerie permettant à un nutritionniste d'échanger avec ses clients afin de l'accompagner individuellement et de façon personnalisée.
+Careot offre un service de messagerie permettant à un diététicien d'échanger avec ses clients afin de l'accompagner individuellement et de façon personnalisée.
 
 ### Partage de fichiers
 
