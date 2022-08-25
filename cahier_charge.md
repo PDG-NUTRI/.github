@@ -1,11 +1,12 @@
-# OtCare 🥕
+# Careot 🥕
 ![AppShowcase](https://user-images.githubusercontent.com/43602144/186602869-d86c7472-8f58-4fb7-aef1-87b7a6f32da9.jpg)
 
 ## Description du projet
 
-OtCare est une application de suivi personnel diététique mettant en relation un client et son nutritionniste.
+Careot est une application de suivi personnel diététique mettant en relation un client et son diététicien.
 
-le but est de ...
+Le patient renseigne quotidiennement ses repas dans l'application pendant que le diététicien peut surveiller les progrès de son patient et lui donner des conseils tout au long de son périple alimentaire. De plus, le patient peut échanger des fichiers avec son soignant grâce à l'espace prévu à cet effet. Ainsi, il est devenu facile de se fixer des objectifs et de rester motiver pour atteindre ses objectifs alimentaires.
+
 
 ## Landing page
 
@@ -27,7 +28,7 @@ Il a pour but de faire comprendre comment sera utilisé le produit final une foi
 
 ## Méthodologie de développement
 ### Processus logiciel
-Le temps de développement mis à disposition pour ce projet étant relativement court, nous avons décidé de ne pas utiliser un processus agile itératif. De plus, ayant communiqué au préalable avec notre mandant (une amie nutritionniste d'Olivier) nos requirements sont bien définis.
+Le temps de développement mis à disposition pour ce projet étant relativement court, nous avons décidé de ne pas utiliser un processus agile itératif. De plus, ayant communiqué au préalable avec notre mandant (Claire Emery, diététicienne) nos requirements sont bien définis.
 
 Nous allons cependant quand même séparer les tâches en issues dans un Kanban dont le fonctionnement sera expliqué plus en détail dans un chapitre dédié.
 
