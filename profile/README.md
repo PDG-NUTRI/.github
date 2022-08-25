@@ -1,8 +1,15 @@
 # **Careot 🥕**
 
 ![AppShowcase](https://user-images.githubusercontent.com/43602144/186604452-ca0b63d2-6022-4fe9-a1b1-816c138368c4.jpg)
+> **Take care of your clients efficiently.**
 
-Dans le cadre du projet de groupe, nous développons une application mobile pour nutritionnistes: **Careot🥕**.
+**Careot** est l'application offrant aux nutritionnistes un suivi fiable et efficace de leur clients.
+
+## Un suivi quotidien de ses patient
+
+**Careot** encadre le suivi d'un patient par un nutritionniste afin d'atteindre ses objectifs alimentaires. Le patient renseigne quotidiennement ses repas via un formulaire intégré à l'application. Le processus est simple et interactif : le client prend une photo de son repas et complète quelques champs tels que la durée, sa sensation de faim avant de manger ou encore son sentiment de satiété.
+
+> Nous avons à coeur de mettre l'importance sur le ressenti des patients et non les chiffres.
 
 ## Contexte :seedling:
 
