@@ -7,28 +7,21 @@ Careot est une application de suivi personnel diététique mettant en relation u
 
 Le patient renseigne quotidiennement ses repas dans l'application pendant que le diététicien peut surveiller les progrès de son patient et lui donner des conseils tout au long de son périple alimentaire. De plus, le patient peut échanger des fichiers avec son soignant grâce à l'espace prévu à cet effet. Ainsi, il est devenu facile de se fixer des objectifs et de rester motiver pour atteindre ses objectifs alimentaires.
 
-## Importance d’une prise en charge qualifiée
+### Importance d’une prise en charge qualifiée
 
 Depuis les années 1992 on observe une augmentation du surpoids et de l’obésité. Ils sont un défi de grande ampleur pour le système de santé Suisse. Selon l’OFSP, 42% de la population Suisse est en surpoids ou en état d’obésité. Près de 11% des personnes souffrent d’obésité. Avec l’augmentation de l’obésité, on peut également observer sa stigmatisation. Bien connue des scientifiques, ses conséquences sont dramatiques. Outre les conséquences psychologiques, elle peut aggraver l’obésité et de ce fait ses complications. La population considère encore à tort l’obésité comme un simple “laisser aller” et un manque de discipline. Ce genre de pensée mène à la création d’applications destinées à la perte de poids sans encadrement médical spécialisé et personnalisé. Elles pensent résoudre la perte de poids par le comptage des calories et la surveillance du poids. Hors les recommandations de bonnes pratiques vont dans un autre sens. La prise en charge doit être personnalisée et réalisée par une diététicienne, tout en favorisant l’éducation thérapeutique, d’auto-observation et l’autonomie. Les conséquences d’une mauvaise prise en charge sont multiples. Entre autres, compter les calories peut aggraver ou déclencher des troubles du comportement alimentaires. 
-
-## [Landing page](https://github.com/PDG-NUTRI)
-
-## [Mockup](https://www.figma.com/file/0gbE9gDHY1h7Hnc1fviPDz/PDG-Nutri?node-id=0%3A1)
-
-## Schéma d’architecture
 
 ## Périmètre & Objectifs
 
 ### Application Patient
 
-#### Discussion patient - soignant
+#### Discussion patient - soignant & Document
 
-Cette interface permet de au patient de poser des questions à la diététicienne et elle
-pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire
-
-#### Espace Document
+Cette interface permet de au patient de poser des questions à la diététicienne et elle pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire grâce nottament à l'espace document.
 
 #### Calendrier avec journal des repas
+
+Le calendrier répertorie les journaux alimentaires au quotidien et permet ainsi d'avoir une vue globale sur le suivi.
 
 #### Création du journal alimentaire
 
@@ -39,7 +32,11 @@ pourra observer le remplissage du carnet.
 
 #### Changer données patient
 
+Cette interface permet d'accéder aux patient et compléter les données de profils d'un patient.
+
 #### Liste des patients
+
+Cette interface liste tous les patients de la diététicienne et permet ainsi de naviguer parmis ses clients.
 
 #### Rapport de consultation
 
@@ -48,6 +45,12 @@ Durant la première consultation, la diététicienne remplira les données réco
 session. Et au cours des consultations suivantes, elle continuera de remplir le dossier. Elle pourra
 également ajouter des documents à ce dossier, des contacts (ex: médecin, ect..). toutes les
 conversations avec le patient se retrouveront également dans ce dossier.
+
+## [Landing page](https://github.com/PDG-NUTRI)
+
+## [Mockup](https://www.figma.com/file/0gbE9gDHY1h7Hnc1fviPDz/PDG-Nutri?node-id=0%3A1)
+
+## Schéma d’architecture
 
 ## Requirements fonctionnels
 
