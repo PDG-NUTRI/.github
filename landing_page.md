@@ -53,7 +53,7 @@ Du côté backend, nous utilisons les services de Firebase. Nos données et fich
 ## Outils de développement
 Nous utilisons GitHub comme gestionnaire de version pour ce projet. Nous avons créé une organisation Github qui possède deux dépôts. Le premier comporte tous les fichiers de documentations se rapportant directement au projet et le second contient notre application.
 
-Pour le suivi des issues, nous utilisons Github project. Ce dernier est séparé en plusieurs vues pour faciliter le traitement des tâches. Chaque issue possède alors : 
+Pour le suivi des issues, nous utilisons Github project. Ce dernier est séparé en plusieurs vues pour faciliter le traitement des tâches. Chaque issue possède alors :
 * Une personne assignée à sa réalisation.
 * Une description de sa nature *(documentation, feature, correction de bug, ...)*.
 * Un statut dépendant de son état actuel *(À faire, En cours, En attente d'une revue, En revue, Terminée)*
@@ -70,3 +70,9 @@ Cette vue est un tableau Kanban simple qui permet de modifier l'état de complé
 ![planning](./img/planning.png)
 Cette dernière vue permet à chacun d'avoir une vue globale des tâches qui lui sont attribués.
 ## Intégration / Déploiement continu
+
+### CI: Intégration
+Afin de garder un code source propre et sain, nous utilisons un linter combiné à des tests. Le linter examine le code après chaque push et le testeur exécute la commande `flutter test`. Si l'intégration continue échoue, le commit est refusé.
+
+### CD: Déploiement continu
+Comme notre infrastructure est serverless, nous n'avons pas de code à déployer. En revanche, à chaque changement de version de notre application, nous ajoutons un tag de version sur le commit respectif. Ce tag déclenche alors une Github Action qui va installer java, flutter et compiler notre application et finalement placer le fichier .apk résultant dans la release. Ainsi, nous disposons de toutes les versions au fur et à mesure du développement.
