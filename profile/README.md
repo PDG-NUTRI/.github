@@ -3,7 +3,7 @@
 ![AppShowcase](https://user-images.githubusercontent.com/43602144/186604452-ca0b63d2-6022-4fe9-a1b1-816c138368c4.jpg)
 > **Take care of your clients efficiently.**
 
-**Careot** est l'application offrant aux diététiciens un suivi fiable et efficace de leur clients.
+**Careot** est l'application offrant aux diététiciens un suivi fiable et efficace de leurs clients.
 
 Nous soutenons l'importance d'un encadrement médical spécialisé et personnalisé.
 
