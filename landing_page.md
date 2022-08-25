@@ -1,4 +1,5 @@
 # OtCare 🥕
+![AppShowcase](https://user-images.githubusercontent.com/43602144/186602869-d86c7472-8f58-4fb7-aef1-87b7a6f32da9.jpg)
 
 ## Description du projet
 
