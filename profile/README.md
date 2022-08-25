@@ -5,17 +5,22 @@
 
 **Careot** est l'application offrant aux nutritionnistes un suivi fiable et efficace de leur clients.
 
-## Un suivi quotidien de ses patient
+## Pourquoi opter pour Careot ?
+Careot offre divers services de manière centralisée afin de vous permettre une meilleure organisation dans le suivi quotidien de vos clients.
 
-**Careot** encadre le suivi d'un patient par un nutritionniste afin d'atteindre ses objectifs alimentaires. Le patient renseigne quotidiennement ses repas via un formulaire intégré à l'application. Le processus est simple et interactif : le client prend une photo de son repas et complète quelques champs tels que la durée, sa sensation de faim avant de manger ou encore son sentiment de satiété.
+### Un suivi quotidien de ses patient
 
-> Nous avons à coeur de mettre l'importance sur le ressenti des patients et non les chiffres.
+Careot encadre le suivi d'un patient par un nutritionniste afin d'atteindre ses objectifs alimentaires. Le patient renseigne quotidiennement ses repas via un formulaire intégré à l'application. Le processus est simple et interactif : le client prend une photo de son repas et complète quelques champs tels que la durée, sa sensation de faim avant de manger ou encore son sentiment de satiété.
 
-## Contexte :seedling:
+> Nous avons à coeur de mettre l'accent sur le ressenti des patients et non les chiffres.
 
-**Careot** encadre le suivi d'un patient par un nutritionniste afin d'atteindre ses objectifs alimentaires.
+### Une messagerie intégrée
 
-Le patient renseigne quotidiennement ses repas dans l'application pendant que le nutritioniste peut surveiller les progrès de son patient et lui donner des conseils tout au long de son périple alimentaire. De plus, le patient peut échanger des fichiers avec son soignant grâce à l'espace prévu à cet effet. Ainsi, il est devenu facile de se fixer des objectifs et de rester motiver pour atteindre ses objectifs alimentaires.
+Careot offre un service de messagerie permettant à un nutritionniste d'échanger avec ses clients afin de l'accompagner individuellement et de façon personnalisée.
+
+### Partage de fichiers
+
+Les utilisateurs peuvent partager des fichiers grâce à un espace prévu à cet effet. Les médias envoyés dans notre service de messagerie sont également stockés dans cet espace, permettant la centralisation des fichiers et une meilleure organisation.
 
 
 ## Qui Sommes Nous ? LesCrêpes 🙋‍♀️ !
