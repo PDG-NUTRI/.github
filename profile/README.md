@@ -23,24 +23,17 @@ Careot offre un service de messagerie permettant à un nutritionniste d'échange
 Les utilisateurs peuvent partager des fichiers grâce à un espace prévu à cet effet. Les médias envoyés dans notre service de messagerie sont également stockés dans cet espace, permettant la centralisation des fichiers et une meilleure organisation.
 
 
-## Qui Sommes Nous ? LesCrêpes 🙋‍♀️ !
+## Qui Sommes Nous ?  Equipe LesCrêpes 🙋‍♀️ !
 
 Nous sommes une équipe motivées de 4 étudiants en dernière année de Bachelor. Nous sommes répartis en deux équipes:
 
 - Team Frontend: Chloé & Luca
 - Team Backend: Nelson & Olivier
 
-Nous sommes en orientation ISCL (Logiciel) sauf Olivier qui ferme la marche en ISCD (Donnée). Mais nous tous une chose en commun, nous aimons les crêpes.
+Ce projet s'inscrit dans le cadre de la HES d'été à la HEIG-VD d'Yverdon en 2022, durant laquelle nous devons développer une application pendant une durée de 3 semaines.
 
-## Contribution 🌈
+Nous sommes en orientation logiciel sauf Olivier qui a préféré shoisir la voie des données. Mais nous avons tous une chose en commun, nous aimons les crêpes.
 
-Merci de respecter le contenu de DIL
-
-## Ressources 👩‍💻
-
-C'est ici que nous gardons tous les documents administratifs sur l'organisation.
-
-## Fun facts :dizzy:
-
-Nous avons commencé l'aventure avec une Babka et continuerons notre lancée avec des croissants. Nous finirons sûrement avec une soirée crêpe!
+La nourriture occupe une place importante dans notre processus de développement. L'idée de cette application a vu le jour à une crêpe party
+L'aventure a ensuite commencé autour d'une Babka. Il sera nécessaire de terminer avec une soirée crêpe!
 
