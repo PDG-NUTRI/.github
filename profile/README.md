@@ -1,5 +1,7 @@
 # **Careot 🥕**
 
+![AppShowcase](https://user-images.githubusercontent.com/43602144/186604452-ca0b63d2-6022-4fe9-a1b1-816c138368c4.jpg)
+
 Dans le cadre du projet de groupe, nous développons une application mobile pour nutritionnistes: **Careot🥕**.
 
 ## Contexte :seedling:
