@@ -43,8 +43,7 @@ Lors du développement, le développeur travaille sur une issue à la fois en cr
 Les tâches sont donc séparées en issues dont l'état peuvent être les suivants :
 * **To do** : stories dont l'implémentation n’est pas en cours. Elles peuvent cependant déjà être attribuées.
 * **In progress** : stories en cours d’implémentation.
-* **To review** : une fois l’implémentation de la story terminée, le développeur ouvre une pull request et place la story dans cette même colonne. Un autre développeur s’occupe alors de vérifier la bonne implémentation de la story et peut laisser des commentaires. Il avertit le reste de l’équipe en se l’assignant en tant que reviewer. S’il n’est pas satisfait de l’implémentation de la story, il la déplace dans la colonne “Review done” avec un commentaire avertissant le développeur des modifications à effectuer. Autrement, il ferme la pull request et déplace l'issue dans done.
-* **Review done** : issue dont la solution n'est pas assez satisfaisante pour être introduite sur la branche main.
+* **To review** : une fois l’implémentation de la story terminée, le développeur ouvre une pull request et place la story dans cette même colonne. Un autre développeur s’occupe alors de vérifier la bonne implémentation de la story et peut laisser des commentaires. Il avertit le reste de l’équipe en se l’assignant en tant que reviewer. S’il n’est pas satisfait de l’implémentation de la story, il la déplace dans la colonne “TODO” avec un commentaire avertissant le développeur des modifications à effectuer. Autrement, il ferme la pull request et déplace l'issue dans done.
 * **Done** : stories terminées.
 ## Choix technologiques
 Pour le développement de l'application mobile, nous utilisons Flutter qui nous permet d'avoir une solution multiplateforme et d'obtenir rapidement une interface graphique sans difficulté.
