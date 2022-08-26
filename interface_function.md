@@ -20,6 +20,7 @@
 ## Calendar
 
 - [] getClientMeals(ClientId A)
+- [] getClientMealsOfSpecificDay(clientId, date)
 
 ## Profile Client
 
