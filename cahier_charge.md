@@ -17,16 +17,15 @@ Depuis les années 1992 on observe une augmentation du surpoids et de l’obési
 
 #### Discussion patient - soignant & Document *
 
-Cette interface permet de au patient de poser des questions à la diététicienne et elle pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire grâce nottament à l'espace document.
+Cette interface permet au patient de poser des questions à la diététicienne et elle pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire notamment grâce à l'espace document. La conversation contiendra des messages sous forme de bulles comme une messagerie conventionnelle. Il y aura une barre de saisie pour envoyer des messages et charger des fichiers. L'espace document sera accessible grâce à un bouton média qui regroupera les médias par date.
 
 #### Calendrier avec journal des repas *
 
-Le calendrier répertorie les journaux alimentaires au quotidien et permet ainsi d'avoir une vue globale sur le suivi.
+Le calendrier répertorie les journaux alimentaires au quotidien et permet ainsi d'avoir une vue globale sur le suivi. Lorsqu'un jour est sélectionné, les repas de ce jour ci s'afficheront sous forme d'une carte consultable.
 
 #### Création du journal alimentaire *
 
-Le patient renseignera durant 4-5 jours ses repas dans l'application pendant que la diététicienne
-pourra observer le remplissage du carnet.
+Le patient renseignera durant 4-5 jours ses repas dans l'application pendant que la diététicienne pourra observer le remplissage du carnet. Il y aura un bouton pour prendre des images de la gallerie ou prendre une photo directement. Ensuite tous les champs du formulaire santé seront à remplir.
 
 ### Application Diététicien
 
