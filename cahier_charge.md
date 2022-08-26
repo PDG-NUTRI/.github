@@ -1,23 +1,54 @@
-# OtCare 🥕
+# Careot 🥕
 ![AppShowcase](https://user-images.githubusercontent.com/43602144/186602869-d86c7472-8f58-4fb7-aef1-87b7a6f32da9.jpg)
 
 ## Description du projet
 
-OtCare est une application de suivi personnel diététique mettant en relation un client et son nutritionniste.
+Careot est une application de suivi personnel diététique mettant en relation un client et son diététicien.
 
-le but est de ...
+Le patient renseigne quotidiennement ses repas dans l'application pendant que le diététicien peut surveiller les progrès de son patient et lui donner des conseils tout au long de son périple alimentaire. De plus, le patient peut échanger des fichiers avec son soignant grâce à l'espace prévu à cet effet. Ainsi, il est devenu facile de se fixer des objectifs et de rester motiver pour atteindre ses objectifs alimentaires.
 
-## Landing page
+### Importance d’une prise en charge qualifiée
 
-Une landing page est un site Web vitrine. Il s’agit souvent d’une page pour présenter un produit, les fonctionnalités de celui-ci et l’équipe qui l’a réalisé. Sa seule utilité est de présenter le concept au grand public avant le lancement officiel. La landing page est souvent accrocheuse et accessible; on comprend vite le but du produit présenté.
+Depuis les années 1992 on observe une augmentation du surpoids et de l’obésité. Ils sont un défi de grande ampleur pour le système de santé Suisse. Selon l’OFSP, 42% de la population Suisse est en surpoids ou en état d’obésité. Près de 11% des personnes souffrent d’obésité. Avec l’augmentation de l’obésité, on peut également observer sa stigmatisation. Bien connue des scientifiques, ses conséquences sont dramatiques. Outre les conséquences psychologiques, elle peut aggraver l’obésité et de ce fait ses complications. La population considère encore à tort l’obésité comme un simple “laisser aller” et un manque de discipline. Ce genre de pensée mène à la création d’applications destinées à la perte de poids sans encadrement médical spécialisé et personnalisé. Elles pensent résoudre la perte de poids par le comptage des calories et la surveillance du poids. Hors les recommandations de bonnes pratiques vont dans un autre sens. La prise en charge doit être personnalisée et réalisée par une diététicienne, tout en favorisant l’éducation thérapeutique, d’auto-observation et l’autonomie. Les conséquences d’une mauvaise prise en charge sont multiples. Entre autres, compter les calories peut aggraver ou déclencher des troubles du comportement alimentaires. 
 
-[Page d'accueil](https://github.com/PDG-NUTRI)
+## Périmètre & Objectifs
 
-## Mockup
+### Application Patient
 
-Il a pour but de faire comprendre comment sera utilisé le produit final une fois qu’il sera développé. Il s’agit d’un prototype simplifié pour illustrer les interactions entre l’utilisateur et le produit final. Il permet de valider l’idée finale de l’application ou du site Web avant de commencer à la développer
+#### Discussion patient - soignant & Document
 
-[Mockup](https://www.figma.com/file/0gbE9gDHY1h7Hnc1fviPDz/PDG-Nutri?node-id=0%3A1)
+Cette interface permet de au patient de poser des questions à la diététicienne et elle pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire grâce nottament à l'espace document.
+
+#### Calendrier avec journal des repas
+
+Le calendrier répertorie les journaux alimentaires au quotidien et permet ainsi d'avoir une vue globale sur le suivi.
+
+#### Création du journal alimentaire
+
+Le patient renseignera durant 4-5 jours ses repas dans l'application pendant que la diététicienne
+pourra observer le remplissage du carnet.
+
+### Application Diététicien
+
+#### Changer données patient
+
+Cette interface permet d'accéder aux patient et compléter les données de profils d'un patient.
+
+#### Liste des patients
+
+Cette interface liste tous les patients de la diététicienne et permet ainsi de naviguer parmis ses clients.
+
+#### Rapport de consultation
+
+Durant la première consultation, la diététicienne remplira les données récoltées durant la séance
+(travail, histoire du poids..). Cette interface sera uniquement visible par la soignante. Elle sauvegardera la
+session. Et au cours des consultations suivantes, elle continuera de remplir le dossier. Elle pourra
+également ajouter des documents à ce dossier, des contacts (ex: médecin, ect..). toutes les
+conversations avec le patient se retrouveront également dans ce dossier.
+
+## [Landing page](https://github.com/PDG-NUTRI)
+
+## [Mockup](https://www.figma.com/file/0gbE9gDHY1h7Hnc1fviPDz/PDG-Nutri?node-id=0%3A1)
 
 ## Schéma d’architecture
 
@@ -27,7 +58,7 @@ Il a pour but de faire comprendre comment sera utilisé le produit final une foi
 
 ## Méthodologie de développement
 ### Processus logiciel
-Le temps de développement mis à disposition pour ce projet étant relativement court, nous avons décidé de ne pas utiliser un processus agile itératif. De plus, ayant communiqué au préalable avec notre mandant (une amie nutritionniste d'Olivier) nos requirements sont bien définis.
+Le temps de développement mis à disposition pour ce projet étant relativement court, nous avons décidé de ne pas utiliser un processus agile itératif. De plus, ayant communiqué au préalable avec notre mandant (Claire Emery, diététicienne) nos requirements sont bien définis.
 
 Nous allons cependant quand même séparer les tâches en issues dans un Kanban dont le fonctionnement sera expliqué plus en détail dans un chapitre dédié.
 
