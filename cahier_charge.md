@@ -15,30 +15,29 @@ Depuis les années 1992 on observe une augmentation du surpoids et de l’obési
 
 ### Application Patient
 
-#### Discussion patient - soignant & Document
+#### Discussion patient - soignant & Document *
 
-Cette interface permet de au patient de poser des questions à la diététicienne et elle pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire grâce nottament à l'espace document.
+Cette interface permet au patient de poser des questions à la diététicienne et elle pourra lui répondre ainsi que lui partager des ressources tout au long de son périple alimentaire notamment grâce à l'espace document. La conversation contiendra des messages sous forme de bulles comme une messagerie conventionnelle. Il y aura une barre de saisie pour envoyer des messages et charger des fichiers. L'espace document sera accessible grâce à un bouton média qui regroupera les médias par date.
 
-#### Calendrier avec journal des repas
+#### Calendrier avec journal des repas *
 
-Le calendrier répertorie les journaux alimentaires au quotidien et permet ainsi d'avoir une vue globale sur le suivi.
+Le calendrier répertorie les journaux alimentaires au quotidien et permet ainsi d'avoir une vue globale sur le suivi. Lorsqu'un jour est sélectionné, les repas de ce jour ci s'afficheront sous forme d'une carte consultable.
 
-#### Création du journal alimentaire
+#### Création du journal alimentaire *
 
-Le patient renseignera durant 4-5 jours ses repas dans l'application pendant que la diététicienne
-pourra observer le remplissage du carnet.
+Le patient renseignera durant 4-5 jours ses repas dans l'application pendant que la diététicienne pourra observer le remplissage du carnet. Il y aura un bouton pour prendre des images de la gallerie ou prendre une photo directement. Ensuite tous les champs du formulaire santé seront à remplir.
 
 ### Application Diététicien
 
-#### Changer données patient
+#### Changer données patient #
 
 Cette interface permet d'accéder aux patient et compléter les données de profils d'un patient.
 
-#### Liste des patients
+#### Liste des patients *
 
 Cette interface liste tous les patients de la diététicienne et permet ainsi de naviguer parmis ses clients.
 
-#### Rapport de consultation
+#### Rapport de consultation #
 
 Durant la première consultation, la diététicienne remplira les données récoltées durant la séance
 (travail, histoire du poids..). Cette interface sera uniquement visible par la soignante. Elle sauvegardera la
@@ -51,6 +50,7 @@ conversations avec le patient se retrouveront également dans ce dossier.
 ## [Mockup](https://www.figma.com/file/0gbE9gDHY1h7Hnc1fviPDz/PDG-Nutri?node-id=0%3A1)
 
 ## Schéma d’architecture
+![image](https://user-images.githubusercontent.com/71207824/186847641-579e6742-18f8-4b47-9e0d-ee8988fb623a.png)
 
 ## Requirements fonctionnels
 
