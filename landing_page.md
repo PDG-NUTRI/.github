@@ -22,9 +22,52 @@ Il a pour but de faire comprendre comment sera utilisé le produit final une foi
 ## Schéma d’architecture
 
 ## Requirements fonctionnels
-
+#### Gestion des données
+* Les utilisateurs n'ont accès à l'application que s'ils sont connectés.
+* Le client peut créer un compte.
+* Le client et le diététicien peuvent lier ses informations personnelles à son compte
+* Le client et le diététicien peuvent se connecter à son compte à l'aide de son email et son mot de passe.
+* Le client et le diététicien peuvent se déconnecter de son compte.
+* Le client et le diététicien peuvent consulter les informations liées à son compte.
+* Le client et le diététicien peuvent modifier les informations liées à son compte.
+* Le diététicien peut consulter les comptes des clients.
+* Le diététicien peut ajouter au comptes des clients des informations liés à leur dossier.
+* Le diététicien peut modifier les informations du dossier de ses clients.
+* Le diététicien peut chercher le compte de ses clients dans une liste.
+#### Messagerie
+* Le client et le diététicien peuvent échanger des messages via un chat.
+* Le client et le diététicien peuvent s'envoyer des fichiers dans le chat.
+* Le client et le diététicien peuvent consulter à tout moment les messages et les fichiers qui ont été échangés.
+#### Journal
+* Le client peut remplir le formulaire à chaque repas.
+* Le client peut ajouter une photo dans son formulaire.
+* Le client peut prendre une photo directement dans l'application pour l'ajouter dans le formulaire.
+* Le client et le professionnel peuvent consulter les formulaires remplis via un calendrier.
+* Le client peut modifier les informations du formulaire d'un repas déjà saisi.
 ## Requirements non-fonctionnels
-
+* L'application doit peser moins de 100 Mo.
+* Le chargement de chaque page prends moins de 5 secondes.
+* L'application est multiplatforme.
+* L'application peut supporter au moins une cinquantaine de comptes connectés en même temps.
+#### Gestion des données
+* L'utilisateur ne peut accéder qu'aux données qui le concernent.
+* Les informations sensibles de l'utilisateur sont sécurisées.
+* La création d'un compte est vérifiée par email.
+* Le diététicien peut voir uniquement les comptes vérifiés.
+* L'envoi du formulaire d'inscription prend moins de 5 secondes.
+* La connexion prend moins de 5 secondes.
+* Le formulaire d'inscription est facile à remplir pour le client.
+#### Messagerie
+* L'utilisateur peut envoyer des messages même sans connexion internet (les messages seront envoyés automatiquement une fois que la connexion est rétablie).
+* L'envoi des messages prend moins de 5 secondes.
+* L'application permet d'envoyer des fichiers de moins de 100 Mo.
+* L'upload de fichier doit être raisonnable pour la taille du fichier.
+* Les conversations sont conservées à la fermeture de l'application.
+#### Journal
+* Le formulaire est intuitif et facile à remplir pour le client.
+* L'envoi du formulaire prend moins de 10 secondes.
+* Le client n'a pas besoin de remplir l'intégralité du formulaire quand il souhaite faire une modification.
+* Le client peut ajouter une image de moins de 100 Mo.
 ## Méthodologie de développement
 
 ## Choix technologiques
