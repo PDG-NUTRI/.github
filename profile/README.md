@@ -22,7 +22,7 @@ Careot🥕 offre divers services de manière centralisée afin de vous permettre
 - Messagerie intégrée : Careot🥕 offre un service de messagerie permettant à un diététicien d'échanger avec ses clients afin de l'accompagner individuellement et de façon personnalisée.
 - Partage de fichiers : les utilisateurs peuvent partager des fichiers grâce à un espace prévu à cet effet. Les médias envoyés dans notre service de messagerie sont également stockés dans cet espace, permettant la centralisation des fichiers et une meilleure organisation.
 
-> En choisissant Careot🥕, vous soutenez l'importance d'une prise en charge qualifiée.
+> En choisissant Careot🥕, vous optez pour une prise en charge qualifiée.
 
 ### Digitalisation du processus de suivi des patient
 Le journal alimentaire papier utilisé en nutrition est digitalisé afin de faciliter et d'augmenter la qualité des données et simplifiant ainsi leur analyse par le diététicien. Cela permet un meilleur diagnostic nutritionnel et, par conséquent, une prise en charge adéquate.
