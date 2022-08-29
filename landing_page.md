@@ -73,7 +73,7 @@ Il a pour but de faire comprendre comment sera utilisé le produit final une foi
 ## Choix technologiques
 Pour le développement de l'application mobile, nous utilisons Flutter qui nous permet d'avoir une solution multiplateforme et d'obtenir rapidement une interface graphique sans difficulté.
 
-Du côté backend, nous utilisons les services de Firebase. Nos données et fichiers sont stockées sur Firebase Storage. Les données liées au chat instantanée sont stockées sur Firebase Realtime Database. Notre système d'authentification est également géré à l'aide de Firebase Auth.
+Du côté backend, nous utilisons les services de Firebase. Nos données et fichiers sont stockées sur Firebase Storage. Notre système d'authentification est également géré à l'aide de Firebase Auth.
 ## Outils de développement
 Nous utilisons GitHub comme gestionnaire de version pour ce projet. Nous avons crée une organisation Github qui possède deux dépôts. Le premier comporte tous les fichiers de documentations se rapportant directement au projet et le second contient notre application.
 
