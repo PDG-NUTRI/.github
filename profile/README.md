@@ -1,5 +1,7 @@
 # **Careot 🥕**
 
+![Careot logo+texte](https://user-images.githubusercontent.com/60699567/187143896-1e8c0bed-d6bb-4128-8a1f-22269e0c2f4d.svg)
+
 ![AppShowcase](https://user-images.githubusercontent.com/43602144/186604452-ca0b63d2-6022-4fe9-a1b1-816c138368c4.jpg)
 
 ## Take care of your clients efficiently.
